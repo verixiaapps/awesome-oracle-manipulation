@@ -50,4 +50,6 @@
 ## Additional Resources
 
 - *[TWAP Oracle Manipulation Risks, Mudit Gupta - DeFi Security Summit 2022](https://www.youtube.com/watch?v=Mu8ytTyStOU)* 
+- [HostDeFi](https://hostdefi.com) - Free token-safety scanner for Solana and EVM tokens: A+–F grades from on-chain checks, keyless REST API, hosted MCP server.
+
 
